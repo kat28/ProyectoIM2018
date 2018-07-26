@@ -1,0 +1,200 @@
+﻿
+<html>
+<head>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+    <script>
+
+        $(document).on("ready", function () {
+
+            $('#btnSearch').on('click', function () {
+                GetProductoById($('#txtIdProducto').val());
+            })
+
+            $('#btnDelete').on('click', function () {
+                DeleteProductoById($('#txtIdProducto').val());
+            })
+
+            $('#btnUpdate').on('click', function () {
+                var producto = new Object();
+                producto.IdProducto = $('#txtIdProducto').val();
+                producto.Nombre = $('#txtNombre').val();
+                producto.Precio = $('#txtPrecio').val();
+                producto.Cantidad = $('#txtCantidad').val();
+                UpdateProducto(producto.IdProducto, JSON.stringify(producto));
+            })
+
+            $('#btnCreate').on('click', function () {
+                var producto = new Object();
+                producto.IdProducto = $('#txtIdProducto').val();
+                producto.Nombre = $('#txtNombre').val();
+                producto.Precio = $('#txtPrecio').val();
+                producto.Cantidad = $('#txtCantidad').val();
+                CreateProducto(JSON.stringify(producto));
+            })
+            GetAll();
+        })
+
+        //Get all persons
+        function GetAll() {
+            var item = "";
+            $('#tblList tbody').html('');
+            $.getJSON('/api/producto', function (data) {
+                $.each(data, function (key, value) {
+                    item += "<tr><td>" + value.IdProducto+ "</td><td>" + value.Nombre + "</td><td>" + value.Precio + "</td><td>" + value.Cantidad + "</td></tr>";
+                });
+                $('#tblList tbody').append(item);
+            });
+        };
+
+       
+
+        //Get Producto by id
+        function GetProductoById(IdProducto) {
+            var url = '/api/producto/' + IdProducto;
+            $.getJSON(url)
+                .done(function (data) {
+                    $('#txtIdProducto').val(data.IdProducto);
+                    $('#txtNombre').val(data.Nombre);
+                    $('#txtPrecio').val(data.Precio);
+                    $('#txtCantidad').val(data.Cantidad);
+                })
+                .fail(function (erro) {
+                    ClearForm();
+                });
+        };
+
+        //Delete producto by id
+        function DeleteProductoById(IdProducto) {
+            var url = '/api/producto/' + IdProducto;
+            $.ajax({
+                url: url,
+                type: 'DELETE',
+                contentType: "application/json",
+                statusCode: {
+                    200: function () {
+                        GetAll();
+                        ClearForm();
+                        alert('El producto con el id: ' + IdProducto + ' ha sido eliminado');
+                    },
+                    404: function () {
+                        alert('El producto con el id: ' + IdProducto + ' no ha sido encontrado');
+                    }
+                }
+            });
+        }
+
+        //Update producto
+        function UpdateProducto(IdProducto, Producto) {
+            var url = '/api/producto/' + IdProducto;
+            $.ajax({
+                url: url,
+                type: 'PUT',
+                data: Producto,
+                contentType: "application/json",
+                success: function (IdProducto, textStatus, xhr) {
+                    GetAll();
+                    ClearForm();
+                    alert('El producto fue modificado correctamente');
+                },
+
+                error: function (xhr, textStatus, errorThrown) {
+                    ClearForm;
+                    alert('Error');
+                }
+
+            });
+        }
+
+        //Create a new Producto
+        function CreateProducto(Producto) {
+            var url = '/api/producto/';
+            $.ajax({
+                url: url,
+                type: 'POST',
+                data: Producto,
+                contentType: "application/json",
+                statusCode: {
+                    201: function () {
+                        GetAll();
+                        ClearForm();
+                        alert('El producto ha sido agregado');
+                    },
+                    400: function () {
+                        ClearForm();
+                        alert('Error');
+                    }
+                }
+            });
+        }
+
+        //Clear form
+        function ClearForm() {
+            $('#txtIdProducto').val('');
+            $('#txtNombre').val('');
+            $('#txtPrecio').val('');
+            $('#txtCantidad').val('');
+        }
+
+    </script>
+
+
+</head>
+<body>
+    <div class="hero-unit">
+    
+        <a href="~/Views/Home/Prov.html">Ver proveedores</a>
+        <h2>Productos</h2>
+        <div>
+            <ul>
+                <li>
+                    <label>Id:</label>
+                    <input type="text" id="txtIdProducto" />
+                    <input type="button" id="btnSearch" value="Buscar" />
+                </li>
+
+                <li>
+                    <label>Nombre:</label>
+                    <input type="text" id="txtNombre" />
+                </li>
+                <li>
+                    <label>Precio:</label>
+                    <input type="text" id="txtPrecio" />
+                </li>
+
+                <li>
+                    <label>Cantidad:</label>
+                    <input type="text" id="txtCantidad" />
+                </li>
+
+
+                <li>
+                    <input type="button" id="btnDelete" value="Eliminar" />
+                    <input type="button" id="btnUpdate" value="Modificar" />
+                    <input type="button" id="btnCreate" value="Nuevo" />
+                </li>
+            </ul>
+        </div>
+
+        <h2>Obtener Todos los productos</h2>
+        <div>
+            <table id="tblList" class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>IdProducto</th>
+                        <th>Nombre</th>
+                        <th>Precio</th>
+                        <th>Cantidad</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+
+    </div>
+</body>
+
+
+
+</html>
+
+

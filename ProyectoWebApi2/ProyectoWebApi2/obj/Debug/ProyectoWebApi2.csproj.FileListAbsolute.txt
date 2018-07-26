@@ -1,0 +1,237 @@
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\ApplicationInsights.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csc.exe
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csc.exe.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csc.rsp
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csi.exe
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csi.rsp
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.AppContext.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.Collections.Immutable.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.IO.FileSystem.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.Reflection.Metadata.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\vbc.exe
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\vbc.exe.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\vbc.rsp
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\VBCSCompiler.exe
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\VBCSCompiler.exe.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\ProyectoWebApi2.dll.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\ProyectoWebApi2.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\ProyectoWebApi2.pdb
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Antlr3.Runtime.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.SqlServer.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.DependencyCollector.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.Web.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.WindowsServer.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.ApplicationInsights.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.Web.Infrastructure.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Newtonsoft.Json.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Net.Http.Formatting.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Helpers.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.WebHost.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Mvc.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Optimization.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Razor.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Deployment.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Razor.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\WebGrease.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.SqlServer.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Newtonsoft.Json.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Net.Http.Formatting.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Helpers.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.WebHost.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Mvc.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Optimization.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Razor.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Deployment.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Razor.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Antlr3.Runtime.pdb
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.ApplicationInsights.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.DependencyCollector.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.WindowsServer.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.Web.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\obj\Debug\ProyectoWebApi2.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\obj\Debug\ProyectoWebApi2.pdb
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoWebApi2\ProyectoWebApi2\obj\Debug\ProyectoWebApi2.csprojResolveAssemblyReference.cache
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\ApplicationInsights.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csc.exe
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csc.exe.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csc.rsp
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csi.exe
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csi.rsp
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.AppContext.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.Collections.Immutable.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.IO.FileSystem.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.Reflection.Metadata.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\vbc.exe
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\vbc.exe.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\vbc.rsp
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\VBCSCompiler.exe
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\VBCSCompiler.exe.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\ProyectoWebApi2.dll.config
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\ProyectoWebApi2.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\ProyectoWebApi2.pdb
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Antlr3.Runtime.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.SqlServer.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.DependencyCollector.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.Web.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.WindowsServer.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.ApplicationInsights.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.Web.Infrastructure.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Newtonsoft.Json.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Net.Http.Formatting.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Helpers.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.WebHost.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Mvc.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Optimization.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Razor.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Deployment.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Razor.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\WebGrease.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.SqlServer.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Newtonsoft.Json.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Net.Http.Formatting.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Helpers.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.WebHost.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Mvc.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Optimization.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Razor.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Deployment.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Razor.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Antlr3.Runtime.pdb
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.ApplicationInsights.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.DependencyCollector.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.WindowsServer.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.Web.xml
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\obj\Debug\ProyectoWebApi2.csprojResolveAssemblyReference.cache
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\obj\Debug\ProyectoWebApi2.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\obj\Debug\ProyectoWebApi2.pdb
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Cors.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.Cors.dll
+E:\kategodinezd\Documents\Visual Studio 2017\Projects\ProyectoK18\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.Cors.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\ApplicationInsights.config
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csc.exe
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csc.exe.config
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csc.rsp
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csi.exe
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\csi.rsp
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.AppContext.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.Collections.Immutable.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.IO.FileSystem.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\System.Reflection.Metadata.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\vbc.exe
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\vbc.exe.config
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\vbc.rsp
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\VBCSCompiler.exe
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\roslyn\VBCSCompiler.exe.config
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\ProyectoWebApi2.dll.config
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\ProyectoWebApi2.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\ProyectoWebApi2.pdb
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Antlr3.Runtime.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.SqlServer.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.DependencyCollector.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.Web.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.WindowsServer.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.ApplicationInsights.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.Web.Infrastructure.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Newtonsoft.Json.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Net.Http.Formatting.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Cors.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Helpers.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.Cors.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.WebHost.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Mvc.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Optimization.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Razor.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Deployment.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Razor.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\WebGrease.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\EntityFramework.SqlServer.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Net.Http.Formatting.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.Cors.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Newtonsoft.Json.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Helpers.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Http.WebHost.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Mvc.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Optimization.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.Razor.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Deployment.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\System.Web.WebPages.Razor.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Antlr3.Runtime.pdb
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.ApplicationInsights.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.DependencyCollector.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.WindowsServer.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\bin\Microsoft.AI.Web.xml
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\obj\Debug\ProyectoWebApi2.csprojResolveAssemblyReference.cache
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\obj\Debug\ProyectoWebApi2.dll
+E:\kategodinezd\Desktop\Proyecto Imp\ProyectoWebApi2\ProyectoWebApi2\obj\Debug\ProyectoWebApi2.pdb

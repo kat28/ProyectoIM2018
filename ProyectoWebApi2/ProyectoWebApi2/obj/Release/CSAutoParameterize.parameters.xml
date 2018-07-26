@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="proyectoDBEntities-Web.config Connection String" description="proyectoDBEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Datos.ModeloDB.csdl|res://*/Datos.ModeloDB.ssdl|res://*/Datos.ModeloDB.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=proyecto2018.database.windows.net;initial catalog=proyectoDB;user id=kate;password=kathe017%;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\kategodinezd\\Desktop\\Proyecto\ Imp\\ProyectoWebApi2\\ProyectoWebApi2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='proyectoDBEntities']/@connectionString" />
+  </parameter>
+</parameters>
