@@ -14,7 +14,7 @@ using ProyectoWebApi2.Datos;
 
 namespace ProyectoWebApi2.Controllers
 {
-    //[EnableCors(origins: "http://proyecto2018kt.azurewebsites.net", headers: "*", methods: "*")]
+    
     [EnableCors(origins:"*",headers:"*",methods:"*")]
     public class productoController : ApiController
     {
