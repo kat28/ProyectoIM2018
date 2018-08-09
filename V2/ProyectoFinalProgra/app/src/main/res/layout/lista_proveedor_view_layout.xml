@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp">
+
+            <TextView
+                android:id="@+id/nombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="19dp"
+                android:text="Pogba"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <!--android:layout_alignStart="@+id/idProveedor"-->
+            <TextView
+                android:id="@+id/title_IdPro"
+                android:layout_width="wrap_content"
+                android:layout_height="24dp"
+                android:layout_above="@+id/idProveedor"
+                android:layout_alignStart="@+id/nombre"
+                android:layout_below="@+id/nombre"
+                android:layout_marginBottom="-56dp"
+                android:layout_marginTop="5dp"
+                android:text="Id: "
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/idProveedor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/direccion"
+                android:layout_alignStart="@+id/telefono"
+                android:text="1"
+                android:textSize="18dp" />
+
+
+            <TextView
+                android:id="@+id/title_direccion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignStart="@+id/nombre"
+                android:layout_centerVertical="true"
+                android:text="direccion: "
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/direccion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignTop="@+id/title_direccion"
+                android:layout_marginStart="100dp"
+                android:text="1.91"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/title_telefono"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignStart="@+id/nombre"
+                android:layout_marginBottom="56dp"
+                android:text="telefono: "
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/telefono"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/direccion"
+                android:layout_alignTop="@+id/title_telefono"
+                android:text="100"
+                android:textSize="18dp" />
+
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

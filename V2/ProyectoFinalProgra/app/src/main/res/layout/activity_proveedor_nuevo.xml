@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="10dp"
+    tools:context="com.example.kate.proyectofinal.ProveedorNuevoActivity">
+
+    <ScrollView
+        android:id="@+id/ScrollView01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_idProv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/input_idProv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Id"
+                    android:inputType="textFilter"/>
+            </android.support.design.widget.TextInputLayout>
+
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_nombre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/input_nombre"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Nombre"
+                    android:inputType="textFilter"
+                    android:maxLines="1" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_direccion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/input_direccion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Direccion"
+                    android:inputType="textFilter"
+                    android:maxLines="1" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_tel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/input_tel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Telefono"
+                    android:inputType="number" />
+            </android.support.design.widget.TextInputLayout>
+
+            <Button
+                android:id="@+id/button_guardar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/colorPrimary"
+                android:text="Guardar"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
+
+
+
+
