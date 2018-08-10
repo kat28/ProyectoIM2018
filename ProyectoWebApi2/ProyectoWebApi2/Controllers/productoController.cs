@@ -11,6 +11,7 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using System.Web.Http.Cors;
 using ProyectoWebApi2.Datos;
+using ProyectoWebApi2.Models;
 
 namespace ProyectoWebApi2.Controllers
 {
@@ -18,19 +19,33 @@ namespace ProyectoWebApi2.Controllers
     [EnableCors(origins:"*",headers:"*",methods:"*")]
     public class productoController : ApiController
     {
-        private proyectoDBEntities db = new proyectoDBEntities();
+        //private proyectoDBEntities db = new proyectoDBEntities();
+
+        //agrega inyeccion de dependencias
+        private IStoreAppContext db = new proyectoDBEntities();
+
+        // add contructores
+        public productoController() { }
+
+        public productoController(IStoreAppContext context)
+        {
+            db = context;
+        }
+
 
         // GET: api/producto
         public IQueryable<producto> Getproductos()
         {
-            return db.productos;
+            return db.producto;
         }
 
         // GET: api/producto/5
         [ResponseType(typeof(producto))]
-        public async Task<IHttpActionResult> Getproducto(int id)
+        //public async Task<IHttpActionResult> Getproducto(int id)
+        public IHttpActionResult Getproducto(int id)
         {
-            producto producto = await db.productos.FindAsync(id);
+            //= await findAsync
+            producto producto = db.producto.Find(id);
             if (producto == null)
             {
                 return NotFound();
@@ -41,7 +56,9 @@ namespace ProyectoWebApi2.Controllers
 
         // PUT: api/producto/5
         [ResponseType(typeof(void))]
-        public async Task<IHttpActionResult> Putproducto(int id, producto producto)
+
+        //public async Task<IHttpActionResult> Putproducto(producto producto, int id)
+        public IHttpActionResult Putproducto(producto producto, int id)
         {
             if (!ModelState.IsValid)
             {
@@ -53,11 +70,12 @@ namespace ProyectoWebApi2.Controllers
                 return BadRequest();
             }
 
-            db.Entry(producto).State = EntityState.Modified;
+            //db.Entry(producto).State = EntityState.Modified;
+            db.MarkAsModified(producto);
 
             try
             {
-                await db.SaveChangesAsync();
+                db.SaveChanges();
             }
             catch (DbUpdateConcurrencyException)
             {
@@ -76,18 +94,19 @@ namespace ProyectoWebApi2.Controllers
 
         // POST: api/producto
         [ResponseType(typeof(producto))]
-        public async Task<IHttpActionResult> Postproducto(producto producto)
+        //public async Task<IHttpActionResult> Postproducto(producto producto)
+        public IHttpActionResult Postproducto(producto producto)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
 
-            db.productos.Add(producto);
+            db.producto.Add(producto);
 
             try
             {
-                await db.SaveChangesAsync();
+                db.SaveChanges();
             }
             catch (DbUpdateException)
             {
@@ -106,16 +125,19 @@ namespace ProyectoWebApi2.Controllers
 
         // DELETE: api/producto/5
         [ResponseType(typeof(producto))]
-        public async Task<IHttpActionResult> Deleteproducto(int id)
+        public IHttpActionResult Deleteproducto(int id)
+        //public async Task<IHttpActionResult> Deleteproducto(int id)
         {
-            producto producto = await db.productos.FindAsync(id);
+            //= await FindAsync
+            producto producto = db.producto.Find(id);
             if (producto == null)
             {
                 return NotFound();
             }
 
-            db.productos.Remove(producto);
-            await db.SaveChangesAsync();
+            db.producto.Remove(producto);
+            //await db.SaveChangesAsync();
+            db.SaveChanges();
 
             return Ok(producto);
         }
@@ -131,7 +153,7 @@ namespace ProyectoWebApi2.Controllers
 
         private bool productoExists(int id)
         {
-            return db.productos.Count(e => e.IdProducto == id) > 0;
+            return db.producto.Count(e => e.IdProducto == id) > 0;
         }
     }
 }
